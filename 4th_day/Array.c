@@ -1,4 +1,4 @@
-// collection of data items os same data type
+// collection of data items of same data type
 
 #include <stdio.h>
 
@@ -31,7 +31,7 @@ int main()
     marks[0]=34;
     printf("Marks of student  1 is %d\n",marks[0]);//accessing value by its address
 
-    printf("Marks of student  2 is %d\n",marks[0]);
+    printf("Marks of student  2 is %d\n",marks);
 
     return 0;
 }

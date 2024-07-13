@@ -19,7 +19,7 @@ int is_palindrome(int a)
     else
     {
 
-        return 1;
+        return 0;
     }
 }
 
